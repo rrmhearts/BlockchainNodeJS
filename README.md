@@ -1,4 +1,19 @@
-### Build a Blockchain and Cryptocurrency from Scratch
+# BlockChain Tutorial
+The documentation is meant to be read in order alongside the code. This code is based on the udemy course described below.
+
+## Documentation
+Use this documentation to help understand the code and see a basic overview of the course.
+1. [Blocks](documentation/01_blocks/)
+2. [Blockchain](documentation/02_blockchain/)
+3. [API](documentation/03_api/)
+4. [Peer Server](documentation/04_peer_server/)
+5. [Proof of Work](documentation/05_proof_of_work/)
+6. [Wallet](documentation/06_wallet/)
+7. [Transaction Pool](documentation/07_transaction_pool/)
+8. [Miner](documentation/08_miner/)
+
+
+## Build a Blockchain and Cryptocurrency from Scratch
 
 The official code for the *Build a Blockchain and Cryptocurrency from Scratch* course on Udemy by David Katz.
 
